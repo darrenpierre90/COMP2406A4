@@ -1,0 +1,16 @@
+{
+  "name": "express_static_server",
+  "version": "1.0.0",
+  "description": "Fork 2 Fork API receipe",
+  "main": "fork2fork.js",
+  "scripts": {
+    "test": "node fork2fork.js"
+  },
+  "author": "Samuel Daly, Darren Pierre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {}
+}
